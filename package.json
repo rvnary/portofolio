@@ -45,8 +45,7 @@
     "sonner": "^2.0.3",
     "tailwind-merge": "*",
     "vaul": "^1.1.2",
-    "@vercel/postgres": "^0.8.0",
-    "@vercel/node": "^3.4.0"
+    "@vercel/postgres": "^0.8.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
