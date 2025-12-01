@@ -9,7 +9,7 @@
     },
     {
       "source": "/linkedin",
-      "destination": "www.linkedin.com/in/jerryo-pradnatan-956a63329",
+      "destination": "https://linkedin.com/in/jerryo-pradnatan-956a63329",
       "permanent": false
     },
     {
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
