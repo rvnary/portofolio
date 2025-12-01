@@ -46,10 +46,10 @@ export function Hero() {
             </div>
           </div>
           <h1 className="text-white mb-4">
-            Creative Portfolio
+            Jerryo Pradnatan
           </h1>
           <p className="text-white/90 max-w-2xl mx-auto">
-            Crafting beautiful digital experiences through innovative design and development
+            Currently refining my skills and expanding my design capabilities
           </p>
         </div>
       </div>
