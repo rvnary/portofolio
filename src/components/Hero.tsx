@@ -23,7 +23,7 @@ export function Hero() {
       {/* Background Image - Fixed with dynamic blur */}
       <div className="fixed inset-0 z-0">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1693159682660-c125e71844d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHdvcmtzcGFjZSUyMGRlc2t8ZW58MXx8fHwxNzY0NTE1MzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+          src="https://github.com/rvnary/Portofolio/blob/main/justintano/mockup%20business%20card.png?raw=true"
           alt="Hero background"
           className="w-full h-full object-cover"
           style={{ filter: `blur(${blurAmount}px)` }}
