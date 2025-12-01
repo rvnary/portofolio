@@ -1,5 +1,14 @@
-import { Mail, MapPin, Phone, Github, Linkedin, Twitter, Instagram } from "lucide-react";
+import {
+  Mail,
+  MapPin,
+  Phone,
+  Github,
+  Linkedin,
+  Twitter,
+  Instagram,
+} from "lucide-react";
 import { useState } from "react";
+import { FaXTwitter } from "react-icons/fa6";
 
 export function Contact() {
   const [formData, setFormData] = useState({
@@ -99,7 +108,7 @@ export function Contact() {
                 </div>
               </div>
             </div>
-{/* itu github aslinya instagram */}
+            {/* itu github aslinya instagram */}
             <div className="mt-8">
               <h4 className="mb-4">Follow My Social</h4>
               <div className="flex gap-4">
@@ -119,7 +128,7 @@ export function Contact() {
                   href="/twitter"
                   className="w-10 h-10 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-blue-600 hover:text-white transition-colors"
                 >
-                  <Twitter size={20} />
+                  <FaXTwitter size={20} />
                 </a>
               </div>
             </div>
