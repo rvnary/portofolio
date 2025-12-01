@@ -154,7 +154,7 @@ export function Contact() {
       <footer className="mt-20 pt-8 border-t border-gray-200">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-gray-600">
-            © 2025 Portfolio. All rights reserved.
+            © 2025 Jerryo Pradnatan. All rights reserved.
           </p>
         </div>
       </footer>
