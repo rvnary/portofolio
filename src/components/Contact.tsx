@@ -26,7 +26,7 @@ export function Contact() {
     <section id="contact" className="relative z-20 py-20 px-6" style={{ backgroundColor: '#F8EFEA' }}>
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="mb-4">Get In Touch</h2>
+          <h2 className="mb-4">Contact Me</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Have a project in mind? Let's work together to create something amazing
           </p>
@@ -43,7 +43,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4>Email</h4>
-                  <p className="text-gray-600">hello@portfolio.com</p>
+                  <p className="text-gray-600">jerryopradnatan2@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -52,7 +52,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4>Phone</h4>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+62 897-4883-632</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -61,13 +61,13 @@ export function Contact() {
                 </div>
                 <div>
                   <h4>Location</h4>
-                  <p className="text-gray-600">San Francisco, CA</p>
+                  <p className="text-gray-600">North Sumatera, Indonesia</p>
                 </div>
               </div>
             </div>
 
             <div className="mt-8">
-              <h4 className="mb-4">Follow Me</h4>
+              <h4 className="mb-4">Follow My Social</h4>
               <div className="flex gap-4">
                 <a
                   href="#"
@@ -76,7 +76,7 @@ export function Contact() {
                   <Github size={20} />
                 </a>
                 <a
-                  href="#"
+                  href="www.linkedin.com/in/jerryo-pradnatan-956a63329"
                   className="w-10 h-10 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-blue-600 hover:text-white transition-colors"
                 >
                   <Linkedin size={20} />
