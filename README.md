@@ -1,68 +1,114 @@
 [Chorus]
+
 Goin' back to Honolulu just to get that
+
 That Maui Wowie, that Maui Wowie
+
 Goin' back to Honolulu just to get that
+
 That Maui Wowie, that Maui Wowie
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high
+
 
 [Verse]
+
 Yeah, back up in the mix
+
 Aloha, nigga, Cudi lookin' for a fix
+
 Got enough dough just to take a trip
+
 To get a little pinch of the Maui Wowie
+
 Oh man, here we go again
+
 If you ever get a chance, smoke it with a friend
+
 Me and Pat on a mission to get
+
 Lifted like John Legend and shit
+
 Get lifted
+
 Let's get lifted
+
 What you gon' cop? Maybe a dub, maybe a zone
+
 No matter what you cop, you should smoke it 'til it's gone
+
 Walkin' on the beach with the sand between your feet
+
 And all the Hawaiian girls sing to the beat
+
 "Hey, what it do, boo?
+
 You smoke good? Yeah, me too"
+
 Livin' in paradise, all through the night
+
 And even in the day, smoke 'til I can't see
+
 What can I say? Nothin' like this in the world, homie
+
 Make you feel great, you forget you in the States, might relocate
+
 So you smoke all the Maui Wowie you could take, like
-See Kid Cudi Live
-Get tickets as low as $159
-You might also like
-DECEMBER 31ST
-Ty Dolla $ign
-DON’T KILL THE PARTY
-Ty Dolla $ign
-Mother
-Tyler, The Creator
+
 [Chorus]
+
 Goin' back to Honolulu just to get that
+
 That Maui Wowie, that Maui Wowie
+
 Goin' back to Honolulu just to get that
+
 That Maui Wowie, that Maui Wowie
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high
+
 (And I'm so high) And I'm so high (Ah-ah)
 
+
 [Outro]
+
 I know, I know, I know
+
 I really need to go, go, go, go, go, go
+
 Really need to go, go
+
 Really need to go, go, go
+
 Man, I need Maui Wowie
-I smoke that Maui Wowie
-I need Maui Wowie
-I smoke that Maui Wowie
-I know, I know, I know
-You really need to go, go
-Really need to go, go, go
-Man, I need Maui Wowie
+
 I smoke that Maui Wowie
 
+I need Maui Wowie
+
+I smoke that Maui Wowie
+
+I know, I know, I know
+
+You really need to go, go
+
+Really need to go, go, go
+
+Man, I need Maui Wowie
+
+I smoke that Maui Wowie
+
+
 Lyrics by Genius
+
 https://genius.com/Kid-cudi-maui-wowie-lyrics
