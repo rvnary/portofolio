@@ -1,4 +1,22 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist"
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/your-username",
+      "permanent": false
+    },
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/jerryo-pradnatan-956a63329?trk=contact-info",
+      "permanent": false
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/your-handle",
+      "permanent": false
+    }
+  ]
 }
+
