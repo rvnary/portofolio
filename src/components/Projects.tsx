@@ -9,7 +9,7 @@ const projects = [
     image:
       "https://raw.githubusercontent.com/rvnary/Portofolio/refs/heads/main/justintano/logo%20breakdown.webp",
     tags: ["Logo", "Design", "Personal"],
-    link: "https://drive.google.com/file/d/1W2nxV4iPkupxXOFTuc5G5y3hiLPAINiO/view?usp=drivesdk",
+    link: "https://drive.google.com/file/d/16mqI2WCDfY5aqet7NA-lwV4FjutKPbfT/view?usp=sharing",
   },
   {
     id: 2,
